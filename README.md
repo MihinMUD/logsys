@@ -9,7 +9,7 @@ Log.logConsole("loged")
 Log.logFile("path", 'Loged')
 ```
 
-Installaion and useage
+# Installaion and useage
 
 ##### Download the repo
 ##### Extract to your project folder
